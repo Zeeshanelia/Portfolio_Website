@@ -116,7 +116,7 @@ a {
 .social-icons ul li:hover {
     transform: scale(1.4);
 }
-.logo {
+.navbar .brand img {
     width: 50px;
 }
 
